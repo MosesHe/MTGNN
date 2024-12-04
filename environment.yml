@@ -1,0 +1,14 @@
+name: mtgnn
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - pytables
+  - pip 
